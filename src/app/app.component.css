@@ -1,0 +1,5 @@
+export class AppComponent {
+	title = "Exercicio 01";
+	name = "IFSP São Carlos";
+	year = 2021;
+}
